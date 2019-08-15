@@ -1,0 +1,11 @@
+.tweet-block{
+    border: solid black;
+    width: 50%;
+    height: 100px;
+    background-color: rgb(122, 173, 182);
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    left: 25%;
+    top: 69px;
+}
